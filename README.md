@@ -2,6 +2,7 @@
 Linux Server Configuration project for Udacity's Full Stack Nanodegree program
 
 IP Adress: 18.130.212.16
+
 SSH port: 2200
 
 Tested ssh connection using below command and ssh key provided in the submission process:
